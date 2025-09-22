@@ -40,8 +40,3 @@ The Highest Bidder is Bob with a bid amount of 200
    ```bash
    python3 secret_auction.py
    ```
-
-## License
-This project is open-source and free to use under the MIT License.
-
----
