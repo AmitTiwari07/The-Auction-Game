@@ -2,7 +2,7 @@ import pyfiglet
 from logo import logo_hammer
 print(logo_hammer)
 
-logo_text="Secret Auction"
+logo_text="The-Auction-Game"
 print(pyfiglet.figlet_format(logo_text))
 auction = {}
 
